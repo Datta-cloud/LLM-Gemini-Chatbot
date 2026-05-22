@@ -23,3 +23,10 @@ https://llm-gemini-chatbot.streamlit.app
 - Streamlit
 - Google Gemini API
 - python-dotenv
+
+
+👨‍💻 Author
+Datta Hadke
+
+GitHub:
+https://github.com/Datta-cloud
